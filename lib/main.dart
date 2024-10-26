@@ -16,7 +16,6 @@ class MainApp extends StatefulWidget {
 }
 
 class _MainAppState extends State<MainApp> {
-  bool isMale = true;
 
   // final int count;
   @override
